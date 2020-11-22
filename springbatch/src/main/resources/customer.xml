@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+	<customer>
+		<id>1</id>
+		<firstName>Stone</firstName>
+		<lastName>Barrett</lastName>
+		<birthday>1964-10-19 14:11:03</birthday>
+	</customer>
+	<customer>
+		<id>2</id>
+		<firstName>Stone</firstName>
+		<lastName>Barrett</lastName>
+		<birthday>1964-10-19 14:11:03</birthday>
+	</customer>
+	<customer>
+		<id>3</id>
+		<firstName>Stone</firstName>
+		<lastName>Barrett</lastName>
+		<birthday>1964-10-19 14:11:03</birthday>
+	</customer>
+	<customer>
+		<id>4</id>
+		<firstName>Stone</firstName>
+		<lastName>Barrett</lastName>
+		<birthday>1964-10-19 14:11:03</birthday>
+	</customer>
+	<customer>
+		<id>5</id>
+		<firstName>Stone</firstName>
+		<lastName>Barrett</lastName>
+		<birthday>1964-10-19 14:11:03</birthday>
+	</customer>
+</customers>
+
