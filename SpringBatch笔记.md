@@ -41,7 +41,7 @@ Spring Batch自动执行此基本批处理迭代，从而提供了将一组类�
 
 ### 三、处理流程
 
-![image-20201121104623081](C:\Users\Qh\Desktop\springbatch\SpringBatch笔记.assets\image-20201121104623081.png)
+![image-20201121104623081](SpringBatch笔记.assets\image-20201121104623081.png)
 
 
 
@@ -53,7 +53,7 @@ Spring Batch自动执行此基本批处理迭代，从而提供了将一组类�
 
 方式一：官网下创建springboot+springbatch项目，右边选择需要的依赖
 
-![image-20201121113608121](C:\Users\Qh\Desktop\springbatch\SpringBatch笔记.assets\image-20201121113608121.png)
+![image-20201121113608121](SpringBatch笔记.assets\image-20201121113608121.png)
 
 方式二：通过ide  eclipse -->spring-spring starter project 
 
